@@ -1,0 +1,101 @@
+Company,Sales,Profit,Region,Product Category,Order Date
+Company_1,1360,1094.9280455601024,South America,Furniture,2023-01-01
+Company_2,4272,255.24714913656385,Asia,Electronics,2023-01-08
+Company_3,3592,715.0711026120781,South America,Office Supplies,2023-01-15
+Company_4,966,382.40688326955467,South America,Office Supplies,2023-01-22
+Company_5,4926,1354.069033942927,Europe,Clothing,2023-01-29
+Company_6,3944,765.5183124549565,South America,Electronics,2023-02-05
+Company_7,3671,888.5858007669372,North America,Clothing,2023-02-12
+Company_8,3419,1073.7225209965786,South America,Office Supplies,2023-02-19
+Company_9,630,295.0640361682259,South America,Electronics,2023-02-26
+Company_10,2185,946.1843309889441,Asia,Electronics,2023-03-05
+Company_11,1269,855.7775278223423,North America,Clothing,2023-03-12
+Company_12,2891,384.28571462867717,South America,Office Supplies,2023-03-19
+Company_13,2933,1419.9949987811735,South America,Electronics,2023-03-26
+Company_14,1684,938.4116530839505,Europe,Clothing,2023-04-02
+Company_15,3885,1072.6989062555863,South America,Office Supplies,2023-04-09
+Company_16,4617,1332.654974621361,South America,Clothing,2023-04-16
+Company_17,3404,974.0956673873105,Europe,Furniture,2023-04-23
+Company_18,974,513.8871601727997,Asia,Electronics,2023-04-30
+Company_19,1582,247.69196376237886,South America,Furniture,2023-05-07
+Company_20,3058,739.1483986760743,Europe,Office Supplies,2023-05-14
+Company_21,2547,405.816612103567,North America,Furniture,2023-05-21
+Company_22,3247,683.1139270185128,Asia,Furniture,2023-05-28
+Company_23,1475,1336.5923624864156,North America,Office Supplies,2023-06-04
+Company_24,2306,554.0830294073835,North America,Clothing,2023-06-11
+Company_25,689,270.9231365809427,Europe,Furniture,2023-06-18
+Company_26,3234,598.8169733077648,South America,Clothing,2023-06-25
+Company_27,3505,1369.5598181640557,Europe,Furniture,2023-07-02
+Company_28,2399,480.9851491384894,Europe,Clothing,2023-07-09
+Company_29,1767,1006.7661687579073,Europe,Office Supplies,2023-07-16
+Company_30,2028,100.72852779344214,Europe,Furniture,2023-07-23
+Company_31,3702,593.5963988678366,Asia,Office Supplies,2023-07-30
+Company_32,4056,526.6937614212407,South America,Furniture,2023-08-06
+Company_33,4390,330.51819440011843,North America,Office Supplies,2023-08-13
+Company_34,1146,847.7251871256187,North America,Office Supplies,2023-08-20
+Company_35,3388,778.7619599025765,South America,Furniture,2023-08-27
+Company_36,2935,1069.4104460463786,North America,Furniture,2023-09-03
+Company_37,1100,477.17726731793005,South America,Furniture,2023-09-10
+Company_38,2863,441.77573114688386,North America,Electronics,2023-09-17
+Company_39,2561,335.6074590421028,Europe,Clothing,2023-09-24
+Company_40,741,406.2699074022983,North America,Electronics,2023-10-01
+Company_41,2541,881.3428028242777,South America,Electronics,2023-10-08
+Company_42,3324,665.3706394812572,South America,Office Supplies,2023-10-15
+Company_43,3112,190.8491459525742,South America,Furniture,2023-10-22
+Company_44,1863,455.4815795080826,South America,Clothing,2023-10-29
+Company_45,1978,445.62648797404165,South America,Office Supplies,2023-11-05
+Company_46,3056,1074.8259819757036,Asia,Electronics,2023-11-12
+Company_47,1275,1097.1788258942188,Asia,Furniture,2023-11-19
+Company_48,4514,307.32170193475986,North America,Office Supplies,2023-11-26
+Company_49,534,1496.8366790685186,South America,Furniture,2023-12-03
+Company_50,3652,473.493419985399,North America,Office Supplies,2023-12-10
+Company_51,2455,1467.2609381657142,South America,Furniture,2023-12-17
+Company_52,2085,675.4518186455238,South America,Electronics,2023-12-24
+Company_53,4443,146.27102606076772,Asia,Clothing,2023-12-31
+Company_54,3573,583.0997472373562,Asia,Electronics,2024-01-07
+Company_55,1521,988.0918825819093,Europe,Clothing,2024-01-14
+Company_56,3961,1052.9876321766735,Asia,Furniture,2024-01-21
+Company_57,3113,843.308416643991,Europe,Office Supplies,2024-01-28
+Company_58,4343,726.8964304023283,Europe,Electronics,2024-02-04
+Company_59,2000,874.0503246998592,Europe,Clothing,2024-02-11
+Company_60,661,929.7754134311509,Europe,Electronics,2024-02-18
+Company_61,4797,213.19465686580133,Europe,Clothing,2024-02-25
+Company_62,2481,617.5162384859663,North America,Electronics,2024-03-03
+Company_63,1495,439.0239135883962,Asia,Clothing,2024-03-10
+Company_64,3842,1224.3956589318543,Europe,Clothing,2024-03-17
+Company_65,4298,758.4208882244538,South America,Furniture,2024-03-24
+Company_66,1775,1476.7923972527801,Asia,Clothing,2024-03-31
+Company_67,1516,658.3542194223743,Asia,Furniture,2024-04-07
+Company_68,837,1243.0046225071376,Europe,Clothing,2024-04-14
+Company_69,1378,1217.6831749783717,North America,Office Supplies,2024-04-21
+Company_70,1576,311.0045615516012,Europe,Office Supplies,2024-04-28
+Company_71,4493,811.4782874370061,North America,Office Supplies,2024-05-05
+Company_72,879,1074.1379295072347,South America,Clothing,2024-05-12
+Company_73,992,1301.7023267392078,Asia,Furniture,2024-05-19
+Company_74,2562,556.3424672826386,South America,Furniture,2024-05-26
+Company_75,4384,408.3374665917676,North America,Clothing,2024-06-02
+Company_76,564,1095.609345413225,North America,Office Supplies,2024-06-09
+Company_77,3068,1233.3014645956016,South America,Office Supplies,2024-06-16
+Company_78,2527,588.1323822084212,North America,Furniture,2024-06-23
+Company_79,3195,234.64717152798906,South America,Office Supplies,2024-06-30
+Company_80,1995,1416.7325702854455,Asia,Electronics,2024-07-07
+Company_81,891,656.6008295225313,South America,Furniture,2024-07-14
+Company_82,4974,824.8518907384722,Asia,Office Supplies,2024-07-21
+Company_83,4061,1272.7941482702593,South America,Furniture,2024-07-28
+Company_84,2778,1045.966163854993,North America,Electronics,2024-08-04
+Company_85,3599,1129.3025669370809,South America,Furniture,2024-08-11
+Company_86,700,392.70026903279916,North America,Furniture,2024-08-18
+Company_87,3604,858.0271633585921,South America,Furniture,2024-08-25
+Company_88,2954,1074.0981590831152,South America,Furniture,2024-09-01
+Company_89,4145,419.97003051621954,Europe,Electronics,2024-09-08
+Company_90,1304,344.93689793431065,North America,Clothing,2024-09-15
+Company_91,3231,1475.0356806612099,Europe,Furniture,2024-09-22
+Company_92,3273,823.29024777942,North America,Furniture,2024-09-29
+Company_93,2070,465.16084476257265,Europe,Office Supplies,2024-10-06
+Company_94,3190,1494.755179661094,Asia,Furniture,2024-10-13
+Company_95,4340,1451.587091804311,South America,Office Supplies,2024-10-20
+Company_96,1528,881.6108350499367,North America,Clothing,2024-10-27
+Company_97,1002,1335.6908804650757,North America,Electronics,2024-11-03
+Company_98,4993,364.18995167793116,South America,Electronics,2024-11-10
+Company_99,1370,490.4198936290546,North America,Clothing,2024-11-17
+Company_100,4988,1080.50096196188,North America,Electronics,2024-11-24
